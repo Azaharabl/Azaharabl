@@ -9,6 +9,13 @@
 
 -En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
+###Mis lenguajes:
+----
+-Jaba
+-Type Script
+-Html
+
+###Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
 
 ![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png )
 
