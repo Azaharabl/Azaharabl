@@ -10,7 +10,7 @@
 -En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
 
-![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png width="48")
+![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png )
 
 <!--
 **Azaharabl/Azaharabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
