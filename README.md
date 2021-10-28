@@ -5,18 +5,20 @@
 - Si me piden describirme va a ser una tarea complicada..
 - podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, la naturaleza y la cerveza.😄
 
--Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera cntra el cambio climatico.
+- Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera cntra el cambio climatico.
 
--En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
+- En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
-###Mis lenguajes:
+Mis lenguajes:
 ----
--Jaba
--Type Script
--Html
+- Jaba
 
-###Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
+- Type Script
 
+- Html
+
+Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
+---
 ![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png )
 
 <!--
