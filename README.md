@@ -3,9 +3,14 @@
 
 
 - Si me piden describirme va a ser una tarea complicada..
-- podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, y la cerveza.😄
+- podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, la naturaleza y la cerveza.😄
 
--En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en madrid como en la comunidad valenciana, intento reinvientarme a mi miisma como desarrolladora.
+-Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera cntra el cambio climatico.
+
+-En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Vomunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
+
+
+![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png)
 
 <!--
 **Azaharabl/Azaharabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
