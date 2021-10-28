@@ -3,9 +3,9 @@
 
 
 - Si me piden describirme va a ser una tarea complicada..
-- podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, la naturaleza y la cerveza.😄
+- Podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, la naturaleza y la cerveza.😄
 
-- Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera cntra el cambio climatico.
+- Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera contra el cambio climatico.
 
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
