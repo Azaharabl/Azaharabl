@@ -1,15 +1,12 @@
 
+![1](https://user-images.githubusercontent.com/90633858/139233673-5740024a-dc9b-4d10-969b-cca546ed0e64.jpg)
 
-![2](https://user-images.githubusercontent.com/90633858/139232640-a1d5ebe6-96f5-4e29-864f-a0966bdc1174.jpg)
 
 - Si me piden describirme va a ser una tarea complicada..
 - podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, y la cerveza.😄
 
 -En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en madrid como en la comunidad valenciana, intento reinvientarme a mi miisma como desarrolladora.
 
--
-- 
-- 
 <!--
 **Azaharabl/Azaharabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
