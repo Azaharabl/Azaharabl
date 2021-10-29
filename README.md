@@ -16,7 +16,7 @@
 Mis lenguajes:
 ----
 - Java
-![java](https://user-images.githubusercontent.com/90633858/139405645-82b8d663-08a6-4a21-b207-62e4b2edc59d.png)
+![java](https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
 
 
 
