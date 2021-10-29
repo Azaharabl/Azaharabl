@@ -9,13 +9,21 @@
 
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
+## Mis Redes Sociales:
+[![Linkedin](imagenes/icoli.png)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+
 Mis lenguajes:
 ----
 - Java
+- [![Java](![java](https://user-images.githubusercontent.com/90633858/139404777-b8e22d4e-c823-4166-9687-e3adc2dabd7d.png)
+)]
 
 - Type Script
+- [![Type Script]()]
 
 - Html
+- [![Html](![html5](https://user-images.githubusercontent.com/90633858/139404900-fd0c958a-3cf9-43a6-bd13-78c7ebe20ae8.png)
+)]
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
 ---
