@@ -15,15 +15,16 @@
 Mis lenguajes:
 ----
 - Java
-- [![Java](![java](https://user-images.githubusercontent.com/90633858/139404777-b8e22d4e-c823-4166-9687-e3adc2dabd7d.png)
-)]
+![java](https://user-images.githubusercontent.com/90633858/139405084-4c13ccf8-7cd5-444a-ab4c-ae87e4663625.png)
+
 
 - Type Script
-- [![Type Script]()]
+![type](https://user-images.githubusercontent.com/90633858/139405389-4f9a33c4-a087-41f4-b0b2-0c44f1519976.png)
+
 
 - Html
-- [![Html](![html5](https://user-images.githubusercontent.com/90633858/139404900-fd0c958a-3cf9-43a6-bd13-78c7ebe20ae8.png)
-)]
+![html5](https://user-images.githubusercontent.com/90633858/139405154-18294c8c-cc75-4984-baaf-8f6d2108c337.png)
+
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
 ---
