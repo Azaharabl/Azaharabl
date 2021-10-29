@@ -10,12 +10,14 @@
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
 ## Mis Redes Sociales:
-[![Linkedin](imagenes/icoli.png)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+[![Linkedin](![linkedin](https://user-images.githubusercontent.com/90633858/139405846-8660ccee-82c7-4dcb-81a8-bee67067374d.png)
+)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 Mis lenguajes:
 ----
 - Java
-![java](https://user-images.githubusercontent.com/90633858/139405084-4c13ccf8-7cd5-444a-ab4c-ae87e4663625.png)
+![java](https://user-images.githubusercontent.com/90633858/139405645-82b8d663-08a6-4a21-b207-62e4b2edc59d.png)
+
 
 
 - Type Script
