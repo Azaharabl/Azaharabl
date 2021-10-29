@@ -11,7 +11,7 @@
 
 Mis lenguajes:
 ----
-- Jaba
+- Java
 
 - Type Script
 
