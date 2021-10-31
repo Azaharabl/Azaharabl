@@ -10,7 +10,8 @@
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
 ## Mis Redes Sociales:
-[![Linkedin](![linkedin](https://user-images.githubusercontent.com/90633858/139405846-8660ccee-82c7-4dcb-81a8-bee67067374d.png)
+- [![linkedin](https://user-images.githubusercontent.com/90633858/139581695-ef8ab169-fcc3-43fd-82aa-49f1f25023c4.png)
+](![linkedin](https://user-images.githubusercontent.com/90633858/139405846-8660ccee-82c7-4dcb-81a8-bee67067374d.png)
 )](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 Mis lenguajes:
