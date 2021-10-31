@@ -10,8 +10,8 @@
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
 ## Mis Redes Sociales:
--[linkedin].(https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
--[instagram]
+- Linkedin =>.(https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
+
 
 Mis lenguajes:
 ----
