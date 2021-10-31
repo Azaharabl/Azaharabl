@@ -10,22 +10,17 @@
 - En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
 
 ## Mis Redes Sociales:
-[![Twitter](imegenes/linkedin.png)](https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
-[![Linkedin](imagenes/icoli.png)](https://www.linkedin.com/in/danielrodriguezfernandez03002/)
+-[linkedin].(https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
+-[instagram]
 
 Mis lenguajes:
 ----
 - Java
-![java](https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
-
-
 
 - Type Script
-![type](https://user-images.githubusercontent.com/90633858/139405389-4f9a33c4-a087-41f4-b0b2-0c44f1519976.png)
-
 
 - Html
-![html5](https://user-images.githubusercontent.com/90633858/139405154-18294c8c-cc75-4984-baaf-8f6d2108c337.png)
+
 
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
