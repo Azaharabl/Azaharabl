@@ -2,12 +2,12 @@
 ![1](https://user-images.githubusercontent.com/90633858/139233673-5740024a-dc9b-4d10-969b-cca546ed0e64.jpg)
 
 
-- Si me piden describirme va a ser una tarea complicada..
-- Podria decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, inclullendo el arte, la musica, los juegos, la gente con corazon, la naturaleza y la cerveza.😄
+- Si me piden describirme va a ser una tarea complicada...
+- Podría decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, incluyendo el arte, la música, los juegos, la gente con corazón, la naturaleza y la cerveza.😄
 
-- Si eres una de esas personas que encasilla, encasillame como feminista, atnostica, y guerrera contra el cambio climatico.
+- Si eres una de esas personas que encasilla, encasíllame como feminista, atnostica, y guerrera contra el cambio climatico.
 
-- En estos momentos despues de haber trabajado en la empresa Cinesa durante mis ultimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinvientarme a mi mí misma como desarrolladora.
+- En estos momentos después de haber trabajado en la empresa Cinesa durante mis últimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinventarme a mi mí misma como desarrolladora.
 
 ## Mis Redes Sociales:
 - Linkedin =>.(https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
