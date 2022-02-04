@@ -21,6 +21,8 @@ Mis lenguajes:
 
 - Html
 
+- CSS
+
 
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
