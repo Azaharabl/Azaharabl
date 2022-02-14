@@ -17,11 +17,13 @@ Mis lenguajes:
 ----
 - Java
 
-- Type Script
+- TypeScript
 
 - Html
 
 - CSS
+
+- JavaScript
 
 
 
