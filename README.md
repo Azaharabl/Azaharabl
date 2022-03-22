@@ -29,9 +29,9 @@ Mis lenguajes:
 
 - bash
 
--powerShell
+- powerShell
 
--mySql
+- mySql
 
 
 
