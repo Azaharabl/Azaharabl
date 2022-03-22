@@ -3,7 +3,7 @@
 
 
 - Si me piden describirme va a ser una tarea complicada...
-- Podría decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, incluyendo el arte, la música, los juegos, la gente con corazón, la naturaleza y la cerveza.😄
+- Podría decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, incluyendo el arte, la música, los juegos, la gente con corazón, la naturaleza y la las salidas con amigos.😄
 
 - Si eres una de esas personas que encasilla, encasíllame como feminista, atnostica, y guerrera contra el cambio climatico.
 
@@ -24,6 +24,15 @@ Mis lenguajes:
 - CSS
 
 - JavaScript
+
+- kotlin
+
+- bash
+
+-powerShell
+
+-mySql
+
 
 
 
