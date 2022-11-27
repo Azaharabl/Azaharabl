@@ -33,12 +33,11 @@ Mis lenguajes:
 
 - mySql
 
-<img src="https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png" alt="drawing" width="300"/>
 
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
----
-![octogato aza](https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png )
+
 
 <!--
 **Azaharabl/Azaharabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
