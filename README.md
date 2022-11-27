@@ -33,7 +33,7 @@ Mis lenguajes:
 
 - mySql
 
-
+<img src="https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png" alt="drawing" width="200"/>
 
 
 Programa siempre como si la persona que va a leer tu código fuera un psicópata violento que sabe dónde vives.
