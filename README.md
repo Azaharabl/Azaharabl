@@ -48,10 +48,7 @@ Programa siempre como si la persona que va a leer tu código fuera un psicópata
 </p>
 
 <p align="center">
-  <img loading="lazy" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" 
-  height="40">
-  <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
-  height="40">
+ 
   <img loading="lazy" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" 
   height="40">
    <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
@@ -66,38 +63,10 @@ Programa siempre como si la persona que va a leer tu código fuera un psicópata
   height="40">
   <img loading="lazy" src="https://img.icons8.com/color/452/google-firebase-console.png" 
   height="40">
-  <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-7-1.png" 
-  height="40">
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
-  height="40">
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
-  height="40">
+ 
 </p>
 
-<p align="center">
- <img loading="lazy" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" 
-  height="40">
-  <img loading="lazy" src="https://windicss.org/assets/logo.svg" 
-  height="40">
-  <img loading="lazy" src="https://39ntbr6g.media.zestyio.com/bulma-logo.d4899f96e1858d7c1e61787a9f72ea96.png" 
-  height="40">
-  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" 
-  height="40">
-  <img loading="lazy" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" 
-  height="40">
-  <img loading="lazy" src="https://vitest.dev/logo-shadow.svg" 
-  height="40">
-  <img loading="lazy" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" 
-  height="40">
-  <img loading="lazy" src="https://d33wubrfki0l68.cloudfront.net/ddd72aa8248a5c2f77429b9496e6e3e4da2a4e26/8afc0/logo.svg" 
-  height="40">
-  <img loading="lazy" src="https://nuxtjs.org/design-kit/colored-logo.svg" 
-  height="40">
-  <img loading="lazy" src="https://vuepress.vuejs.org/hero.png" 
-  height="40">
-  <img loading="lazy" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" 
-  height="40">
-</p>
+
 
 <!--
 **Azaharabl/Azaharabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
