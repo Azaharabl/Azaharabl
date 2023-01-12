@@ -6,12 +6,12 @@
 - Podría decir que soy una persona que lucha por lo que quiere y por los que quiere, fan de lo hermoso de la vida, incluyendo el arte, la música, los juegos, la gente con corazón, la naturaleza y los amigos.😄
 
 - En estos momentos después de haber trabajado en la empresa Cinesa durante mis últimos 4 años, tanto en Madrid como en la Comunidad Valenciana, y anteriormente como educadora infantil, intento reinventarme a mi mí misma como desarrolladora.
-- 
+
 - Descubriendo la belleza en la programación de front y back, el cojer un problema, desgranarlo en otros más sencillos y ir solucionandolos poco a poco para luego unirlos y obtener un hermoso rompecabezas bien extructurado.
 
 
 ## Mis Redes Sociales:
-- Linkedin =>.(https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/)
+- Linkedin =>. https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/
 
 
 Mis Conocimientos:
