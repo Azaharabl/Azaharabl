@@ -13,7 +13,8 @@
 
 <img src="https://user-images.githubusercontent.com/90633858/139234821-271c8e1b-6c30-4689-bb6f-0df738dd03c2.png" alt="drawing" width="300"/>
 
-## Mis Redes Sociales:
+<h2 align="center">Mis Redes Sociales:</h2>
+
 - Linkedin =>. https://www.linkedin.com/in/azahara-blanco-rodr%C3%ADguez-aa4148210/
 - Web => en proceso
 
